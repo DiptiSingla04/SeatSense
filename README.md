@@ -23,11 +23,10 @@ SeatSense is a smart, real-time seat management system for university libraries 
 4. Check-in miss or not arriving after break results in auto release of seat.
 
 ## 🛠️ Technology Stack
-- **Frontend:** React + Vite + Tailwind CSS
-- **Backend:** Supabase
-- **Database:** PostgreSQL
-- **Auth:** Supabase Auth
-- **Live Updates:** Supabase Realtime
+- **Frontend:** React + Vite + Tailwind CSS+html+css+JS
+- **Auth:** demo Auth
+- **Live Updates:** JavaScript state
+- deployment :vercel + github
 
 ## ⚡ How to Run Locally
 ```bash
